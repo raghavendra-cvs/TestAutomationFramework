@@ -55,19 +55,6 @@ The framework follows a well-defined flow to trigger tests and generate results:
 5. **CI/CD**:
     - **Jenkins** triggers the test execution and continuously integrates the results into the CI pipeline.
 
-## Getting Started
-
-To use the framework, follow these steps:
-
-### Prerequisites
-
-1. **Java** (version 8 or higher)
-2. **Maven** (for dependency management)
-3. **TestNG** (for running tests)
-4. **Selenium WebDriver** (for browser automation)
-5. **REST Assured** (for API automation)
-6. **Jenkins** (for continuous integration)
-
 
 ### Running the Tests
 
