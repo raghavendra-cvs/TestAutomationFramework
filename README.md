@@ -68,25 +68,6 @@ To use the framework, follow these steps:
 5. **REST Assured** (for API automation)
 6. **Jenkins** (for continuous integration)
 
-### Installation
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/rakesh-vardan/Learn_TestAutomationFramework.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd Learn_TestAutomationFramework
-    ```
-
-3. Install the required dependencies using Maven:
-
-    ```bash
-    mvn clean install
-    ```
 
 ### Running the Tests
 
